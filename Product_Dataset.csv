@@ -1,0 +1,51 @@
+Product_ID,Member_ID,Product_Name,Category,Price,Stock,Image
+P00001,M00893,Handmade Jute Bag,Handicrafts,1773.4,62,/images/product_01.jpg
+P00002,M01376,Printed Dupatta,Textiles,1845.81,50,/images/product_02.jpg
+P00003,M01101,Decorative Lamp,Home Decor,286.5,46,/images/product_03.jpg
+P00004,M01253,Lemon Pickle,Food,626.31,55,/images/product_04.jpg
+P00005,M01080,Handmade Bracelet,Jewellery,651.64,11,/images/product_05.jpg
+P00006,M00511,Natural Bath Powder,Personal Care,693.13,72,/images/product_06.jpg
+P00007,M00347,Handmade Paper Pad,Stationery,156.48,99,/images/product_07.jpg
+P00008,M00908,Hand-painted Clay Pot,Handicrafts,433.97,84,/images/product_08.jpg
+P00009,M02476,Cotton Kurti,Textiles,3349.12,13,/images/product_09.jpg
+P00010,M01325,Painted Flower Pot,Home Decor,2021.9,45,/images/product_10.jpg
+P00011,M02406,Lemon Pickle,Food,254.82,28,/images/product_11.jpg
+P00012,M02015,Handmade Bracelet,Jewellery,359.85,55,/images/product_12.jpg
+P00013,M02198,Herbal Hair Oil,Personal Care,216.34,28,/images/product_13.jpg
+P00014,M02315,Decorative Diary,Stationery,392.13,32,/images/product_14.jpg
+P00015,M01376,Hand-painted Clay Pot,Handicrafts,1159.58,12,/images/product_15.jpg
+P00016,M01340,Cotton Kurti,Textiles,2537.06,59,/images/product_16.jpg
+P00017,M00214,Handmade Table Runner,Home Decor,1720.16,48,/images/product_17.jpg
+P00018,M01417,Spice Mix,Food,212.87,86,/images/product_18.jpg
+P00019,M00589,Beaded Necklace,Jewellery,247.87,82,/images/product_19.jpg
+P00020,M01692,Natural Bath Powder,Personal Care,478.71,48,/images/product_20.jpg
+P00021,M02340,Handmade Paper Pad,Stationery,81.25,19,/images/product_21.jpg
+P00022,M01802,Macrame Wall Hanging,Handicrafts,211.44,7,/images/product_22.jpg
+P00023,M02012,Embroidered Cushion Cover,Textiles,910.77,57,/images/product_23.jpg
+P00024,M02304,Painted Flower Pot,Home Decor,2265.57,81,/images/product_24.jpg
+P00025,M00358,Turmeric Powder,Food,214.86,29,/images/product_25.jpg
+P00026,M02104,Pendant Set,Jewellery,1953.67,41,/images/product_26.jpg
+P00027,M01911,Natural Bath Powder,Personal Care,172.34,40,/images/product_27.jpg
+P00028,M02075,Gift Cards Set,Stationery,269.85,99,/images/product_28.jpg
+P00029,M02121,Decorative Wooden Elephant,Handicrafts,1624.47,34,/images/product_29.jpg
+P00030,M00949,Cotton Saree,Textiles,2361.42,93,/images/product_30.jpg
+P00031,M01225,Macrame Wall Hanging,Home Decor,1299.71,30,/images/product_31.jpg
+P00032,M02198,Spice Mix,Food,472.16,22,/images/product_32.jpg
+P00033,M01410,Beaded Necklace,Jewellery,1414.18,23,/images/product_33.jpg
+P00034,M00697,Herbal Soap,Personal Care,826.77,76,/images/product_34.jpg
+P00035,M00595,Decorative Diary,Stationery,79.62,85,/images/product_35.jpg
+P00036,M01763,Macrame Wall Hanging,Handicrafts,1027.29,21,/images/product_36.jpg
+P00037,M01965,Embroidered Cushion Cover,Textiles,311.05,26,/images/product_37.jpg
+P00038,M00462,Painted Flower Pot,Home Decor,1010.03,76,/images/product_38.jpg
+P00039,M01270,Lemon Pickle,Food,497.25,6,/images/product_39.jpg
+P00040,M00847,Pendant Set,Jewellery,1531.36,98,/images/product_40.jpg
+P00041,M00226,Herbal Soap,Personal Care,480.86,16,/images/product_41.jpg
+P00042,M02091,Decorative Diary,Stationery,64.95,91,/images/product_42.jpg
+P00043,M01566,Hand-painted Clay Pot,Handicrafts,1340.1,64,/images/product_43.jpg
+P00044,M01394,Cotton Saree,Textiles,888.22,71,/images/product_44.jpg
+P00045,M00200,Decorative Ceramic Vase,Home Decor,927.67,91,/images/product_45.jpg
+P00046,M00734,Homemade Millet Cookies,Food,148.24,5,/images/product_46.jpg
+P00047,M00548,Terracotta Earrings,Jewellery,203.16,46,/images/product_47.jpg
+P00048,M00823,Rose Face Pack,Personal Care,748.03,78,/images/product_48.jpg
+P00049,M00901,Gift Cards Set,Stationery,412.61,1,/images/product_49.jpg
+P00050,M01014,Handmade Jute Bag,Handicrafts,200.11,99,/images/product_50.jpg
